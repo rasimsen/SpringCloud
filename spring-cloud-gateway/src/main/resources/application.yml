@@ -1,0 +1,18 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: rasimsen_route
+        uri: http://rasimsen.com
+        predicates:
+        - Path=/rasimsen/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+logging:
+  level:
+    org.springframework.web: DEBUG
