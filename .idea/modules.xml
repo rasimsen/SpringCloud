@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.rasimsen.springcloudgateway.iml" filepath="$PROJECT_DIR$/.idea/modules/com.rasimsen.springcloudgateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.rasimsen.springcloudgateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.rasimsen.springcloudgateway_main.iml" group="com.rasimsen.springcloudgateway" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.rasimsen.springcloudgateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.rasimsen.springcloudgateway_test.iml" group="com.rasimsen.springcloudgateway" />
+      <module fileurl="file://$PROJECT_DIR$/spring-kafka/spring-kafka.iml" filepath="$PROJECT_DIR$/spring-kafka/spring-kafka.iml" />
     </modules>
   </component>
 </project>
